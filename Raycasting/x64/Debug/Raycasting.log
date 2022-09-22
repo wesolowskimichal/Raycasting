@@ -1,0 +1,46 @@
+﻿  Screen.cpp
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(10,25): warning C4244: "argument": konwersja z "const int" do "float", możliwa utrata danych
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(11,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(11,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(47,61): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(47,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(68,42): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(75,53): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(75,44): warning C4244: "argument": konwersja z "const int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(93,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "float", możliwa utrata danych
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(98,35): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(190,48): warning C4267: "inicjowanie": konwersja z "size_t" do "_Ty1", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(31): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<int,int>::pair<size_t,size_t,0>(_Other1 &&,_Other2 &&) noexcept” funkcji szablon
+          with
+          [
+              _Other1=size_t,
+              _Other2=size_t
+          ]
+C:\Programowanie\SFML\Raycasting Advanced\Raycasting\Screen.cpp(31): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<int,int>::pair<size_t,size_t,0>(_Other1 &&,_Other2 &&) noexcept” funkcji szablon
+          with
+          [
+              _Other1=size_t,
+              _Other2=size_t
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(190,48): warning C4267: "inicjowanie": konwersja z "size_t" do "_Ty2", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+  Raycasting.vcxproj -> C:\Programowanie\SFML\Raycasting Advanced\x64\Debug\Raycasting.exe
